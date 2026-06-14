@@ -200,7 +200,7 @@ This project was built for **CSE 124 – Object Oriented Programming** and helpe
 
 ## 📄 License
 
-This project was developed as a university course assignment. Feel free to explore the code for learning purposes.
+This project was developed as a university semester final lab project. Feel free to explore the code for learning purposes.
 
 ---
 
