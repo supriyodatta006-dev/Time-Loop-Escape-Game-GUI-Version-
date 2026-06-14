@@ -1,6 +1,3 @@
-Here's a professional README.md file for your GitHub repository:
-
-
 # 🕐 Time Loop Escape
 
 <p align="center">
