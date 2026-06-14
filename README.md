@@ -179,19 +179,19 @@ Profile and settings data are stored in `~/.timeloop/` automatically:
 ---
 
 ### 📸 Screenshots
-## Login Page
+
 <img width="759" height="302" alt="login Page Screenshot" src="https://github.com/user-attachments/assets/74977743-e7a2-4d57-a461-e2056c2beb12" />
-## Main Menu
+
 <img width="759" height="302" alt="Main Menu Screenshot" src="https://github.com/user-attachments/assets/4548d456-1fe5-456e-a487-9d70cd215c60" />
-## Gameplay
+
 <img width="759" height="302" alt="Gameplay Screenshot" src="https://github.com/user-attachments/assets/a633636b-a1cf-4258-81e6-9023846b69a6" />
-## Game Win
+
 <img width="759" height="302" alt="Game Win Screenshot" src="https://github.com/user-attachments/assets/7c4ceecf-d8a5-4cca-a099-38cc6b9bb9e8" />
-## Game Over
+
 <img width="759" height="302" alt="Gameover Screenshot" src="https://github.com/user-attachments/assets/3416d2a5-9f50-462d-b516-5c1b9e1ea4b7" />
-## Difficulty Levels
+
 <img width="759" height="302" alt="Game Level Screenshot" src="https://github.com/user-attachments/assets/21984210-ee2e-4380-945d-f6e74ec4076d" />
-## Profiles
+
 <img width="759" height="302" alt="Profile Page Screenshot" src="https://github.com/user-attachments/assets/511dcfa1-9d8e-488b-be1a-d7a993ac835c" />
 
 
