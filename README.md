@@ -180,7 +180,8 @@ Profile and settings data are stored in `~/.timeloop/` automatically:
 
 ## 📸 Screenshots
 
-> *(Add screenshots of the main menu, gameplay screen, and victory screen here)*
+> *<img width="959" height="502" alt="Main Menu Screenshot" src="https://github.com/user-attachments/assets/4548d456-1fe5-456e-a487-9d70cd215c60" />
+*
 
 ---
 
