@@ -1,7 +1,7 @@
 # 🕐 Time Loop Escape 
-This project is made by me as my semester final project
-
 > *You wake up. Again. The clock resets. The rooms shift. But this time — you remember.*
+
+This project is made by me as my semester final project
 
 A feature-rich, cyberpunk-themed **puzzle escape room game** built entirely in **Java Swing / Java2D** as a course project for **CSE 124 – Object Oriented Programming** at USTC. The game challenges players to collect clues, interact with objects, and escape a series of rooms before the time loop resets — with progressively harder difficulty modes pushing the limits of your memory and speed.
 
